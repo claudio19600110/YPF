@@ -1,0 +1,22 @@
+C:\Users\Software - PC\Desktop\YPF\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Software - PC\Desktop\YPF\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Software - PC\Desktop\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\Software - PC\Desktop\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\Software - PC\Desktop\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\CoolPay01\Desktop\YPF\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\CoolPay01\Desktop\YPF\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\CoolPay01\Desktop\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\CoolPay01\Desktop\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\CoolPay01\Desktop\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

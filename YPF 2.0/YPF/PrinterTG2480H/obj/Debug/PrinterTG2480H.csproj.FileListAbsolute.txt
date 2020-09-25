@@ -1,0 +1,39 @@
+C:\Users\Demo\Desktop\Github\PagosGit\pagos\source\PrinterTG2480H\bin\Debug\PrinterTG2480H.dll
+C:\Users\Demo\Desktop\Github\PagosGit\pagos\source\PrinterTG2480H\bin\Debug\PrinterTG2480H.pdb
+C:\Users\Demo\Desktop\Github\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\Github\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Github\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.dll
+C:\Users\Demo\Desktop\Github\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.pdb
+C:\Users\Demo\Desktop\PagosGit\pagos\source\PrinterTG2480H\bin\Debug\PrinterTG2480H.dll
+C:\Users\Demo\Desktop\PagosGit\pagos\source\PrinterTG2480H\bin\Debug\PrinterTG2480H.pdb
+C:\Users\Demo\Desktop\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.csprojAssemblyReference.cache
+C:\Users\Demo\Desktop\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.dll
+C:\Users\Demo\Desktop\PagosGit\pagos\source\PrinterTG2480H\obj\Debug\PrinterTG2480H.pdb
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csprojAssemblyReference.cache
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CoreCompileInputs.cache
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\bin\Debug\PrinterTG2480H.dll
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\bin\Debug\PrinterTG2480H.pdb
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\bin\Debug\BibliotecaDeClases.dll
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CopyComplete
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.dll
+C:\Users\CoolPay01\Desktop\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\bin\Debug\PrinterTG2480H.dll
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\bin\Debug\PrinterTG2480H.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csprojAssemblyReference.cache
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CopyComplete
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.dll
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\bin\Debug\PrinterTG2480H.dll
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\bin\Debug\PrinterTG2480H.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\bin\Debug\BibliotecaDeClases.dll
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csprojAssemblyReference.cache
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CoreCompileInputs.cache
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.csproj.CopyComplete
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.dll
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\PrinterTG2480H\obj\Debug\PrinterTG2480H.pdb

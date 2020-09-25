@@ -1,0 +1,46 @@
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\YPF.exe.config
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\YPF.exe
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\YPF.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.csprojAssemblyReference.cache
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.LogIn.resources
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.Properties.Resources.resources
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.csproj.GenerateResource.cache
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.csproj.CoreCompileInputs.cache
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.exe
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\BibliotecaDeClases.dll
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\PrinterTG2480H.dll
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\PrinterTG2480H.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.GUI.SesionIniciada.resources
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.csproj.CopyComplete
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\YPF.exe.config
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\YPF.exe.manifest
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\YPF.application
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\YPF.exe
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\YPF.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\PrinterTG2480H.dll
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\VentanaMantenimiento.exe
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\VentanaMantenimiento.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\VentanaMantenimiento.exe.config
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\bin\Debug\PrinterTG2480H.pdb
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.csprojAssemblyReference.cache
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.LogIn.resources
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.GUI.SesionIniciada.resources
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.Properties.Resources.resources
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.csproj.GenerateResource.cache
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.csproj.CoreCompileInputs.cache
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.exe.manifest
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.application
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.csproj.CopyComplete
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.exe
+C:\Users\Software - PC\Desktop\BackUp yPF\YPF 2.0\YPF\obj\Debug\YPF.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\YPF.exe.manifest
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\YPF.application
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.exe.manifest
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\obj\Debug\YPF.application
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\VentanaMantenimiento.exe
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\VentanaMantenimiento.pdb
+C:\Users\CoolPay01\Desktop\YPF 2.0\YPF\bin\Debug\VentanaMantenimiento.exe.config
